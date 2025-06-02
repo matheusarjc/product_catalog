@@ -4,9 +4,10 @@
 
 html,
 body {
-  @apply bg-white dark:bg-gray-950;
+  @apply bg-full;
+}
+/*  dark:bg-gray-950; */
 
-  @media (prefers-color-scheme: dark) {
-    color-scheme: dark;
-  }
+.bg-full {
+  background-color: #e7e7e7;
 }
