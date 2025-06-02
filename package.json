@@ -16,6 +16,7 @@
     "@remix-run/react": "^2.16.8",
     "@remix-run/serve": "^2.16.8",
     "isbot": "^4.4.0",
+    "phosphor-react": "^1.4.1",
     "product_catalog-wl": "file:",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
