@@ -1,0 +1,53 @@
+[
+  {
+    "id": "1",
+    "name": "Smart Watch X1",
+    "price": 299.99,
+    "category": "Wearables",
+    "image": "/images/smartwatch.jpg",
+    "description": "Track your fitness and receive notifications in style."
+  },
+  {
+    "id": "2",
+    "name": "Wireless Earbuds Pro",
+    "price": 149.5,
+    "category": "Audio",
+    "image": "/images/earbuds.jpg",
+    "description": "High-fidelity sound with active noise cancellation."
+  },
+  {
+    "id": "3",
+    "name": "Mechanical Keyboard K9",
+    "price": 89.0,
+    "category": "Computer Accessories",
+    "image": "/images/keyboard.jpg",
+    "description": "Durable and responsive keys for typing and gaming."
+  },
+  {
+    "id": "4",
+    "name": "Jacket Ottoman Test",
+    "price": 100.0,
+    "category": "Jacket & Coats",
+    "image": "/app/assets/jacket-placeholder.png",
+    "description": "A stylish and warm jacket.",
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": "5",
+    "name": "Jacket Ottoman Test 2",
+    "price": 150.0,
+    "category": "Jacket & Coats",
+    "image": "/app/assets/jacket-placeholder.png",
+    "description": "Another stylish and warm jacket.",
+    "sizes": ["M", "L", "XL", "4XL"]
+  },
+  {
+    "id": "6",
+    "name": "Jacket Ottoman Test 3",
+    "price": 200.0,
+    "category": "Jacket & Coats",
+    "image": "/app/assets/jacket-placeholder.png",
+    "description": "A third stylish and warm jacket.",
+    "sizes": ["S", "L", "4XL"]
+  }
+]
